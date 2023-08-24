@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicole Mitidieri Rivera (IG/Twitter @botanicole_)
+- 👋 Hi, I’m Nicole Mitidieri Rivera (IG/Twitter @botanicole_), a botanist from the Neotropics
 - 👀 I’m interested in plant systematics and phylogenomics
 - 🌱 I’m currently learning trait evolution in Moraceae and phylogeny/biogeography of Ficus sec. Americanae
 - 💞️ I’m looking forward to collaborating on plant phylogenetics
