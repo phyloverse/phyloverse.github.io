@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicole Mitidieri-Rivera (IG: @botanicole_), a botanist from the Neotropics
-- 👀 I’m interested in plant systematics and phylogenomics
-- 🌱 I’m currently studying about trait evolution/diversification in Moraceae and the systematics of Ficus sect. Americanae
-- 📫 How to reach out to me: mitidieririv@wisc.edu
+- This is Nicole Mitidieri-Rivera, a botanist from the Neotropics
+- I’m interested in plant systematics and phylogenomics
+- I’m currently studying trait evolution/diversification in Moraceae and the systematics of Ficus sect. Americanae
+- How to reach out to me: mitidieririv@wisc.edu / nicole.mitidieri@gmail.com
