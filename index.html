@@ -38,14 +38,25 @@
   }
 
   /* 🌿 Default image style for projects and portraits */
-	img {
+img {
   width: 100%;
   height: auto;
-  max-width: 800px; /* allows larger images on desktop */
+  max-width: none; /* remove limit on image width */
   border-radius: 8px;
   transition: transform 0.2s ease-in-out;
 }
 
+/* Make project images take up more horizontal space */
+td img {
+  width: 90%; /* fills most of the cell */
+  max-width: 1000px; /* allows large display on desktop */
+}
+
+/* Keep profile picture smaller */
+.profile-pic img {
+  max-width: 420px;
+  border-radius: 50%;
+}
 
   /* 🧬 Larger portrait image */
   .profile-pic img {
