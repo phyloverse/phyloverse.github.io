@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Nicole Mitidieri-Rivera</title>
 
-  <!-- Google Analytics (Deprecated UA, consider GA4) -->
+  <!-- Google Analytics (optional) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171285399-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -14,197 +14,280 @@
     gtag('config', 'UA-171285399-1');
   </script>
 
-  <link rel="stylesheet" href="css/style.css" type="text/css" />
+  <style>
+    :root {
+      --bg: #fafafa;
+      --text: #333;
+      --accent: #265c2c;
+      --light: #e6efe7;
+      --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font);
+      color: var(--text);
+      background-color: var(--bg);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    /* Navigation bar */
+    nav {
+      position: sticky;
+      top: 0;
+      background: white;
+      border-bottom: 1px solid #ddd;
+      z-index: 10;
+    }
+
+    nav ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      margin: 0;
+      padding: 0.7rem 0;
+      flex-wrap: wrap;
+    }
+
+    nav li {
+      margin: 0 1rem;
+    }
+
+    nav a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Header */
+    header {
+      background-color: var(--light);
+      padding: 2rem 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    header img {
+      border-radius: 8px;
+      width: 220px;
+      margin-right: 2rem;
+    }
+
+    header div {
+      max-width: 600px;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+      margin-top: 1.2rem;
+      color: var(--accent);
+    }
+
+    h3 {
+      color: var(--accent);
+      margin-top: 1rem;
+      margin-bottom: 0.3rem;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .project, .pub {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+      background: #fff;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .project img, .pub img {
+      width: 120px;
+      height: auto;
+      margin-right: 1rem;
+      border-radius: 6px;
+    }
+
+    .project div, .pub div {
+      flex: 1;
+      min-width: 250px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.7rem;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      padding: 2rem 0;
+      background-color: var(--light);
+    }
+
+    @media (max-width: 700px) {
+      header {
+        flex-direction: column;
+      }
+
+      header img {
+        margin: 0 0 1rem 0;
+      }
+
+      .project, .pub {
+        flex-direction: column;
+        text-align: left;
+      }
+
+      .project img, .pub img {
+        margin: 0 0 1rem 0;
+      }
+
+      nav ul {
+        flex-direction: column;
+      }
+
+      nav li {
+        margin: 0.5rem 0;
+      }
+    }
+  </style>
 </head>
 
 <body>
 
-  <div align="left">
-    <table border="0" cellpadding="2" width="1200">
-      <tr>
-        <td valign="middle" align="center">
-          <p><span class="presimage"><img src="images/Pic3.jpeg" width="250" /></span></p>
-        </td>
-        <td>
-          <h1>Nicole Mitidieri-Rivera</h1>
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
 
-          <h2>About me</h2>
-          <p>
-            Evolutionary botanist from the Global South interested in the systematics, biogeography, and evolutionary history of Neotropical epiphytic, hemiepiphytic, and arboreal plants.
-            In my PhD in <a href="https://sytsma.botany.wisc.edu/Welcome.html" target="_blank">Dr. Kenneth Sytsma</a>'s team at the University of Wisconsin-Madison, I studied the evolution of floral characters in Moraceae and the systematics/hybridization/taxonomy of
-            <i>Ficus</i> sect. <i>Americanae</i> from phylogenetic and geometric morphometric approaches.
-          </p>
-
-          <h2>Contact</h2>
-          <p>mitidieririv[at]wisc.edu</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <br />
-
-  <h1>Current projects</h1>
-  <div align="left">
-    <table border="0" cellpadding="2" width="1200">
-      <tr>
-        <td valign="middle" align="center">
-          <p><span class="presimage"><img src="images/filogenomicus.png" width="150" /></span></p>
-        </td>
-        <td>
-          <h3>Systematics of <i>Ficus</i> sect. <i>Americanae</i></h3>
-          <p>The advent of high-throughput sequencing has not only bolstered the phylogenetic framework for <i>Ficus</i> L. but has also breathed new life into the study of macroevolutionary processes, including diversification, biogeography, and trait evolution.  
-			  Nonetheless, its largest subgenus <i>Spherosuke</i> continues to be taxonomically underrepresented in most phylogenies, despite containing two of the highest speciation rates in Moraceae. 
-			  While low-copy nuclear genes provide strong support for the monophyly of subgen. <i>Spherosuke</i>, the phylogenetic relationships at the infrageneric level still lack resolution. 
-			  Many of these unresolved relationships stem from limited taxon sampling, especially in the speciose Neotropical <i>Ficus</i> sect. <i>Americanae</i>, where less than 60% of the ~150 species have been sequenced. 
-			  In my research, we aim to reconstruct a phylogenetic hypothesis, representing the first, fully resolved, comprehensive tree for this clade, to test the monophyly of the “species complexes” in <i>F.</i> sect. <i>Americanae</i>.</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <h1>Past projects</h1>
-
-  <div align="left">
-    <table border="0" cellpadding="2" width="1200">
-      <tr>
-        <td valign="middle" align="center">
-          <p><span class="presimage"><img src="images/nomenclature.png" width="150" /></span></p>
-        </td>
-        <td>
-          <h3>Nomenclatural review of <i>Ficus</i> sect. <i>Americanae</i> from South America</h3>
-          <p>
-            Continuous revisions in nomenclature are crucial for maximally informative and stable classification systems as well as accurate assessments of biodiversity. 
-            As a precursor to a phylogenetic-based, taxonomic monograph of Neotropical <i>Ficus</i> sect. <i>Americanae</i> (Moraceae), a comprehensive nomenclatural index 
-            of all published names in the section from South America was published in <i>Phytotaxa</i>.
-          </p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <div align="left">
-    <table border="0" cellpadding="2" width="1200">
-      <tr>
-        <td valign="middle" align="center">
-          <p><span class="presimage"><img src="images/diversification.png" width="150" /></span></p>
-        </td>
-        <td>
-          <h3>Character evolution and diversification in Moraceae</h3>
-          <p>
-            If we replayed the tape of life, would large lineages evolve into the same dazzling diversity observed today? 
-            While the macroevolutionary drivers underlying plant diversification have been investigated for some large genera, many clades remain understudied.
-            <i>Ficus</i> L., with 876 species, one of the largest and most ecologically important genera in Moraceae, is renowned for its iconic inflorescence, intricate pollination mutualism and broad ecological adaptability.
-            We used a well-sampled, dated phylogenomic backbone of Moraceae to investigate diversification patterns and their associated drivers in <i>Ficus</i> and allied genera using maximum-likelihood and Bayesian process-based methods.
-            We assembled a morphological matrix of 508 species in Moraceae to investigate patterns of trait evolution based on stochastic mapping.
-          </p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <h1>
-    Publications
-    <i>(<a href="https://scholar.google.com/citations?user=JqIM1LMAAAAJ&hl=es" target="_blank">Google Scholar</a>)</i>
-  </h1>
-
-  <h3>Submitted</h3>
-  <ul>
-    <li>
+  <!-- Header / About Section -->
+  <header id="about">
+    <img src="images/Pic3.jpeg" alt="Portrait of Nicole Mitidieri-Rivera" />
+    <div>
+      <h1>Nicole Mitidieri-Rivera</h1>
+      <h2>About me</h2>
       <p>
-        A nomenclator of <i>Ficus</i> sect. <i>Americanae</i> (Moraceae). Part II: North and Central America, and the Antilles.<br />
-        <b>N Mitidieri-Rivera</b>, A Damián-Parizaca, E Gardner, L Pederneiras
+        Evolutionary botanist from the Global South interested in the systematics, biogeography, and evolutionary history of Neotropical epiphytic, hemiepiphytic, and arboreal plants.
+        In my PhD in <a href="https://sytsma.botany.wisc.edu/Welcome.html" target="_blank">Dr. Kenneth Sytsma</a>'s team at the University of Wisconsin-Madison, I studied the evolution of floral characters in Moraceae and the systematics, hybridization, and taxonomy of
+        <i>Ficus</i> sect. <i>Americanae</i> using phylogenetic and geometric morphometric approaches.
       </p>
-    </li>
-    <li>
-      <p>
-        Proposal to reject the name <i>Ficus calyculata</i> Mill. (Moraceae).<br />
-        <b>N Mitidieri-Rivera</b>, J Wajer, L Pederneiras
-      </p>
-    </li>
-    <li>
-      <p>
-        Proposal to reject the names <i>Ficus serrata</i> L. and <i>F. maculata</i> L. (Moraceae).<br />
-        <b>N Mitidieri-Rivera</b>, J Wajer, L Pederneiras
-      </p>
-    </li>
-  </ul>
+    </div>
+  </header>
 
-  <h3>Published</h3>
-  <ul>
-    <li>
-      <p>
-        <a href="https://doi.org/10.1093/aob/mcaf101" target="_blank">How to be a big genus? <i>Ficus</i> L. as an emerging model</a>.<br />
-        <b>N Mitidieri-Rivera<strong><sup>*</sup></strong></b>, E Gardner, J Phipps, N Zerega, L Pederneiras, A Damián-Parizaca, K Sytsma.<br />
-        <i>Annals of Botany</i>, 2025.
-      </p>
-    </li>
+  <!-- Projects -->
+  <section id="projects">
+    <h1>Current Projects</h1>
+    <div class="project">
+      <img src="images/filogenomicus.png" alt="Project image" />
+      <div>
+        <h3>Systematics of <i>Ficus</i> sect. <i>Americanae</i></h3>
+        <p>XXX.</p>
+      </div>
+    </div>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.11646/phytotaxa.711.3.1" target="_blank">A Nomenclator of <i>Ficus</i> sect. <i>Americanae</i> (Moraceae). Part I: South America</a>.<br />
-        <b>N Mitidieri-Rivera</b>, A Damián-Paizaca, E Gardner, A Plata-Castro, N Zerega, L Pederneiras.<br />
-        <i>Phytotaxa</i>, 2025.
-      </p>
-    </li>
+    <h1>Past Projects</h1>
+    <div class="project">
+      <img src="images/nomenclature.png" alt="Nomenclatural review image" />
+      <div>
+        <h3>Nomenclatural review of <i>Ficus</i> sect. <i>Americanae</i> from South America</h3>
+        <p>
+          Continuous revisions in nomenclature are crucial for maximally informative and stable classification systems as well as accurate assessments of biodiversity.
+          As a precursor to a phylogenetic-based, taxonomic monograph of Neotropical <i>Ficus</i> sect. <i>Americanae</i> (Moraceae), a comprehensive nomenclatural index
+          of all published names in the section from South America was published in <i>Phytotaxa</i>.
+        </p>
+      </div>
+    </div>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.11646/phytotaxa.708.2.4" target="_blank"> <i>Ficus sytsmae</i> (Moraceae), a new species from South America and the reinstatement of <i>Ficus schiedeana</i></a>.<br />
-        <b>N Mitidieri-Rivera</b>, A Damián-Parizaca.<br />
-        <i>Phytotaxa</i>, 2025.
-      </p>
-    </li>
+    <div class="project">
+      <img src="images/diversification.png" alt="Diversification image" />
+      <div>
+        <h3>Character evolution and diversification in Moraceae</h3>
+        <p>
+          If we replayed the tape of life, would large lineages evolve into the same dazzling diversity observed today?
+          We used a dated phylogenomic backbone of Moraceae to investigate diversification patterns and their drivers in <i>Ficus</i> and allied genera using maximum-likelihood and Bayesian methods.
+          A morphological matrix of 508 species in Moraceae was assembled to explore patterns of trait evolution.
+        </p>
+      </div>
+    </div>
+  </section>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.1600/036364423X16847773873215" target="_blank"><i>Ficus</i> subgen. <i>Spherosuke</i> sect. <i>Americanae</i> ser. <i>Dugandii</i> (Moraceae): A Curved Ostiolar Margin Group of Neotropical Fig Trees</a>.<br />
-        L Pederneiras, H Zamengo, A Zapata, <b>N Mitidieri</b>, S Romaniuc-Neto, V Manzano.<br />
-        <i>Systematic Botany</i>, 2023.
-      </p>
-    </li>
+  <!-- Publications -->
+  <section id="publications">
+    <h1>
+      Publications
+      <i>(<a href="https://scholar.google.com/citations?user=JqIM1LMAAAAJ&hl=es" target="_blank">Google Scholar</a>)</i>
+    </h1>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.11646/phytotaxa.514.2.6" target="_blank">Typification of the <i>Ficus</i> sect. <i>Americanae</i> (Moraceae): Typification of <i>F. aurea</i> and <i>F. pertusa</i> complexes</a>.<br />
-        L Pederneiras, <b>N Mitidieri-Rivera</b>, S Romaniuc-Neto, V Manzano.<br />
-        <i>Phytotaxa</i>, 2021.
-      </p>
-    </li>
-	  
-	  
-    <li>
-      <p>
-        <a href="https://doi.org/10.11646/phytotaxa.474.2.4" target="_blank">Nomenclatural revision of the <i>Ficus</i> sect. <i>Americanae</i> (Moraceae): Typification of <i>F. citrifolia</i> and allied species</a>.<br />
-        L Pederneiras, C Monje, <b>N Mitidieri-Rivera</b>, S Romaniuc-Neto, V Manzano.<br />
-        <i>Phytotaxa</i>, 2020.
-      </p>
-    </li>
+    <h3>Submitted</h3>
+    <ul>
+      <li>A nomenclator of <i>Ficus</i> sect. <i>Americanae</i> (Moraceae). Part II: North and Central America, and the Antilles.<br />
+      <b>N Mitidieri-Rivera</b>, A Damián-Parizaca, E Gardner, L Pederneiras</li>
+      <li>Proposal to reject the name <i>Ficus calyculata</i> Mill. (Moraceae).<br />
+      <b>N Mitidieri-Rivera</b>, J Wajer, L Pederneiras</li>
+    </ul>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.1007/s12228-020-09620-1" target="_blank">Species diversity of <i>Ficus</i> L. sect. <i>Americanae</i> (Moraceae) in Acre, Brazil</a>.<br />
-        L Pederneiras, A da Costa, H Medeiros, <b>N Mitidieri-Rivera</b>, R Forzza, S Romaniuc-Neto, V Manzano.<br />
-        <i>Brittonia</i>, 2020.
-      </p>
-    </li>
+    <h3>Published</h3>
+    <ul>
+      <li><a href="https://doi.org/10.1093/aob/mcaf101" target="_blank">How to be a big genus? <i>Ficus</i> L. as an emerging model</a>.<br />
+      <b>N Mitidieri-Rivera</b>, E Gardner, N Zerega, L Pederneiras, A Damián-Parizaca, K Sytsma.<br /><i>Annals of Botany</i>, 2025.</li>
+      <li><a href="https://doi.org/10.11646/phytotaxa.711.3.1" target="_blank">A Nomenclator of <i>Ficus</i> sect. <i>Americanae</i> (Moraceae). Part I: South America</a>.<br />
+      <b>N Mitidieri-Rivera</b>, A Damián-Parizaca, E Gardner, L Pederneiras.<br /><i>Phytotaxa</i>, 2025.</li>
+    </ul>
+  </section>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.1600/036364420X15801369352342" target="_blank">A New Species and a New Record of <i>Ficus</i> sect. <i>Pharmacosycea</i> (Moraceae) from Peru</a>.<br />
-        <b>N Mitidieri-Rivera</b>, L Pederneiras, A Damián-Parizaca, J Alban.<br />
-        <i>Systematic Botany</i>, 2020.
-      </p>
-    </li>
+  <!-- Contact -->
+  <section id="contact">
+    <h1>Contact</h1>
+    <p>Email: mitidieririv[at]wisc.edu</p>
+  </section>
 
-    <li>
-      <p>
-        <a href="https://doi.org/10.11646/phytotaxa.414.5.4" target="_blank">Nomenclatural revision of <i>Ficus</i> sect. <i>Americanae</i> (Moraceae): Typification of <i>Ficus crocata</i> and allied species</a>.<br />
-        L Pederneiras, C Monje, <b>N Mitidieri-Rivera</b>, S Romaniuc-Neto, A da Costa, V Manzano.<br />
-        <i>Phytotaxa</i>, 2019.
-      </p>
-    </li>
-  </ul>
-
+  <footer>
+    © 2025 Nicole Mitidieri-Rivera • Hosted on GitHub Pages
+  </footer>
 </body>
 </html>
+	  
