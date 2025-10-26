@@ -16,7 +16,6 @@
 
   <link rel="stylesheet" href="css/style.css" type="text/css" />
 <style>
-<style>
 /* 🌿 General image settings */
 img {
   height: auto;
@@ -24,18 +23,19 @@ img {
   transition: transform 0.2s ease-in-out;
 }
 
-/* 🧬 Profile picture: show original size (don’t stretch it) */
+/* 🧬 Profile picture: proportional and nicely sized */
 .profile-pic img {
-  width: auto;
-  height: auto;
-  max-width: none;
+  width: 100%;
+  max-width: 280px;   /* ✅ Adjust this number to make it larger/smaller */
   border-radius: 50%;
+  height: auto;
+  object-fit: cover;
 }
 
 /* 🎨 Project and section images: same visual width */
 .presimage img {
   width: 100%;
-  max-width: 500px; /* same size for all */
+  max-width: 500px; /* same size for all project figures */
   height: auto;
 }
 
@@ -57,7 +57,7 @@ img {
   }
 
   .profile-pic img {
-    max-width: 80%;
+    max-width: 70%;   /* slightly smaller on mobile */
     margin: 0 auto 10px auto;
   }
 
@@ -75,8 +75,6 @@ img {
     font-size: 1rem;
   }
 }
-</style>
-
 </style>
 
 </head>
