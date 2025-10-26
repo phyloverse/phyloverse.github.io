@@ -16,53 +16,69 @@
 
   <link rel="stylesheet" href="css/style.css" type="text/css" />
 <style>
-    body {
-      font-family: "Helvetica", sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #fafafa;
-      color: #222;
-      line-height: 1.6;
-    }
+  body {
+    font-family: "Helvetica", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    color: #222;
+    line-height: 1.6;
+  }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-    }
+  /* ✅ Make tables centered and constrained */
+  table {
+    width: 100%;
+    max-width: 1100px;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
 
-    table {
+  td {
+    vertical-align: top;
+    padding: 10px;
+  }
+
+  /* ✅ Make images scale nicely but not tiny on desktop */
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;  /* portrait + project images look good here */
+    border-radius: 8px;
+  }
+
+  /* Larger images for “About Me” photo */
+  .profile-pic img {
+    max-width: 250px;
+  }
+
+  /* Adjust specific sections */
+  h1, h2, h3 {
+    color: #2c3e50;
+  }
+
+  /* ✅ Mobile view adjustments */
+  @media (max-width: 768px) {
+    table, tr, td {
+      display: block;
       width: 100%;
-      max-width: 1000px;
-      border-collapse: collapse;
-      margin: 0 auto;
     }
 
     td {
-      vertical-align: top;
-      padding: 10px;
+      text-align: center;
+      padding: 10px 0;
     }
 
-    @media (max-width: 768px) {
-      table, tr, td {
-        display: block;
-        width: 100%;
-      }
-
-      td {
-        text-align: center;
-        padding: 10px 0;
-      }
-
-      img {
-        margin-bottom: 10px;
-      }
-
-      body {
-        padding: 0 1rem;
-      }
+    img {
+      max-width: 90%;
+      margin-bottom: 10px;
     }
-  </style>
+
+    body {
+      padding: 0 1rem;
+    }
+  }
+</style>
+
 </head>
 
 <body>
