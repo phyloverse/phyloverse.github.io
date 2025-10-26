@@ -27,7 +27,7 @@
 
   table {
     width: 100%;
-    max-width: 1100px;
+    max-width: 1200px;
     border-collapse: collapse;
     margin: 0 auto;
   }
@@ -37,22 +37,22 @@
     padding: 10px;
   }
 
-  /* ✅ Default project image size */
+  /* 🌿 Default image style for projects and portraits */
   img {
     width: 100%;
     height: auto;
-    max-width: 220px;
+    max-width: 380px; /* increased from 220px */
     border-radius: 8px;
     transition: transform 0.2s ease-in-out;
   }
 
-  /* ✅ Larger portrait (About Me photo) */
+  /* 🧬 Larger portrait image */
   .profile-pic img {
-    max-width: 280px;
+    max-width: 420px;
     border-radius: 50%;
   }
 
-  /* Subtle zoom on hover for desktop */
+  /* ✨ Hover zoom */
   img:hover {
     transform: scale(1.03);
   }
@@ -61,7 +61,23 @@
     color: #2c3e50;
   }
 
-  /* ✅ Mobile view adjustments */
+  header {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+  }
+
+  nav a:hover {
+    color: #0077b6;
+  }
+
+  /* 📱 Mobile adjustments */
   @media (max-width: 768px) {
     table, tr, td {
       display: block;
@@ -79,15 +95,21 @@
     }
 
     .profile-pic img {
-      max-width: 60%;
+      max-width: 70%;
       margin: 0 auto 10px auto;
     }
 
     body {
       padding: 0 1rem;
     }
+
+    nav a {
+      display: block;
+      margin: 8px 0;
+    }
   }
 </style>
+
 
 </head>
 
