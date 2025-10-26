@@ -16,78 +16,27 @@
 
   <link rel="stylesheet" href="css/style.css" type="text/css" />
 <style>
-/* 🌿 Global reset */
-body {
-  font-family: "Helvetica", sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #fafafa;
-  color: #222;
-  line-height: 1.6;
-}
-
-/* 🧭 Tables for layout */
-table {
-  width: 100%;
-  max-width: 1200px;
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-
-td {
-  vertical-align: top;
-  padding: 10px;
-}
-
-/* ✨ Project and portrait images */
+<style>
+/* 🌿 General image settings */
 img {
-  display: block;
-  width: 100%;
   height: auto;
   border-radius: 8px;
   transition: transform 0.2s ease-in-out;
 }
 
-/* 🔬 Make all project PNGs the same visual size */
+/* 🧬 Profile picture: show original size (don’t stretch it) */
+.profile-pic img {
+  width: auto;
+  height: auto;
+  max-width: none;
+  border-radius: 50%;
+}
+
+/* 🎨 Project and section images: same visual width */
 .presimage img {
   width: 100%;
-  max-width: 500px;        /* uniform image size on desktop */
-  aspect-ratio: 16/9;      /* keeps consistent proportions */
-  object-fit: cover;       /* crops extra if needed */
-}
-
-/* 🧬 Larger round profile photo */
-.profile-pic img {
-  max-width: 420px;
-  border-radius: 50%;
-  aspect-ratio: 1/1;
-  object-fit: cover;
-}
-
-/* 🪶 Hover animation */
-img:hover {
-  transform: scale(1.03);
-}
-
-/* 🏷️ Headings and navigation */
-h1, h2, h3 {
-  color: #2c3e50;
-}
-
-header {
-  text-align: center;
-  margin-top: 40px;
-}
-
-nav a {
-  margin: 0 15px;
-  text-decoration: none;
-  color: #2c3e50;
-  font-weight: bold;
-}
-
-nav a:hover {
-  color: #0077b6;
+  max-width: 500px; /* same size for all */
+  height: auto;
 }
 
 /* 📱 Mobile adjustments */
@@ -102,38 +51,32 @@ nav a:hover {
     padding: 10px 0;
   }
 
-  /* Let images resize gracefully */
   .presimage img {
-    max-width: 100%;
-    margin: 0 auto 10px;
+    max-width: 90%;
+    margin-bottom: 10px;
   }
 
   .profile-pic img {
     max-width: 80%;
-    margin: 0 auto 10px;
+    margin: 0 auto 10px auto;
   }
 
   body {
     padding: 0 1rem;
   }
 
-  /* Make text comfortable to read */
-  p {
-    max-width: 100%;
-    font-size: 1rem;
-  }
-
-  /* Stack navigation vertically */
   nav a {
     display: block;
     margin: 8px 0;
   }
 
-  /* Prevent narrow text look */
-  table[width="1200"] {
-    width: 100% !important;
+  p {
+    line-height: 1.6;
+    font-size: 1rem;
   }
 }
+</style>
+
 </style>
 
 </head>
@@ -144,7 +87,7 @@ nav a:hover {
     <table border="0" cellpadding="2" width="1200">
       <tr>
         <td valign="middle" align="center">
-          <p><span class="presimage"><img src="images/Pic3.jpeg"> </span></p>
+          <p><span class="profile-pic"><img src="images/Pic3.jpeg"></span></p>
         </td>
         <td>
           <h1>Nicole Mitidieri-Rivera</h1>
