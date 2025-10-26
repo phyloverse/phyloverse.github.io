@@ -16,30 +16,42 @@
 
   <link rel="stylesheet" href="css/style.css" type="text/css" />
 <style>
-/* 🌿 General image settings */
+<style>
+/* 🌿 Base styles for all images */
 img {
   height: auto;
   border-radius: 8px;
   transition: transform 0.2s ease-in-out;
+  display: block;
+  margin: 0 auto;
 }
 
-/* 🧬 Profile picture: proportional and nicely sized */
+/* 🧬 Profile picture: make it bigger and consistently circular */
 .profile-pic img {
-  width: 100%;
-  max-width: 280px;   /* ✅ Adjust this number to make it larger/smaller */
+  width: 350px;           /* Increased size */
+  height: 350px;          /* Keep square shape for perfect circle */
   border-radius: 50%;
-  height: auto;
   object-fit: cover;
+  object-position: center;
 }
 
-/* 🎨 Project and section images: same visual width */
+/* 🎨 Project and section images: consistent visual size */
 .presimage img {
-  width: 100%;
-  max-width: 500px; /* same size for all project figures */
+  width: 600px;           /* Same width for all project images */
+  max-width: 90%;
   height: auto;
+  border-radius: 12px;
 }
 
-/* 📱 Mobile adjustments */
+/* 🧱 Layout cleanup for tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 📱 Mobile layout improvements */
 @media (max-width: 768px) {
   table, tr, td {
     display: block;
@@ -51,18 +63,14 @@ img {
     padding: 10px 0;
   }
 
-  .presimage img {
-    max-width: 90%;
-    margin-bottom: 10px;
-  }
-
   .profile-pic img {
-    max-width: 70%;   /* slightly smaller on mobile */
-    margin: 0 auto 10px auto;
+    width: 220px;
+    height: 220px;
   }
 
-  body {
-    padding: 0 1rem;
+  .presimage img {
+    width: 100%;
+    max-width: 95%;
   }
 
   nav a {
@@ -70,11 +78,17 @@ img {
     margin: 8px 0;
   }
 
+  body {
+    padding: 0 1rem;
+  }
+
   p {
     line-height: 1.6;
     font-size: 1rem;
   }
 }
+</style>
+
 </style>
 
 </head>
