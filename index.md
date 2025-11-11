@@ -2,7 +2,7 @@
 title: About  
 layout: page
 feature_text: |
-  ## Takuji Usui
+  ## Nicole Mitidieri-Rivera
 ---
 ![rockclimb](images/rock-bw.png)
 
@@ -15,6 +15,6 @@ I am currently a Faculty of Arts & Sciences Postdoctoral Fellow with [Megan Fred
 
 &nbsp;
 
-See [here](https://github.com/takujiusui/takujiusui.github.io/blob/main/TakujiUsuiCV_2025.pdf) for my CV.
+See [here](https://github.com/phyloverse/phyloverse3.github.io/blob/main/Mitidieri_Nicole_CV.pdf) for my CV.
 
 Thank you for checking out my website!
