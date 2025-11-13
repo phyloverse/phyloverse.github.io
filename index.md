@@ -6,11 +6,9 @@ feature_text: |
 ---
 ![rockclimb](images/rock-bw.png)
 
-I am an evolutionary ecologist interested in understanding how ecological and evolutionary processes jointly shape species geographical distributions and community structure, in an era of global change. 
+I am an evolutionary botanist from the Global South interested in the systematics, biogeography, and evolutionary history of Neotropical epiphytic, hemiepiphytic, and arboreal plants. In my PhD under Dr. Kenneth Sytsma's supervision at the University of Wisconsin-Madison, I study the evolution of floral characters in Moraceae and the systematics/hybridization/taxonomy of Ficus sect. Americanae from phylogenetic and geometric morphometric approaches. 
 
-I use a combination of experimental evolution, field work, and data synthesis approaches to test how the interaction between population genetics and ecology scales up to govern: (1) limits and changes to species distributions; (2) spatio-temporal patterns of species coexistence; (3) and evolutionary responses to warming in ecological communities. My research integrates themes and frameworks from evolutionary biology, population ecology, and community ecology.
-
-I am currently a Faculty of Arts & Sciences Postdoctoral Fellow with [Megan Frederickson](http://mutualism.ca/) at the Department of Ecology and Evolutionary Biology, University of Toronto. I completed my PhD with [Amy Angert](https://angert.github.io) at the Biodiversity Research Centre, University of British Columbia. I did my undergraduate research with [Ally Phillimore](http://phillimore.bio.ed.ac.uk/home) at the Institute of Evolutionary Biology, University of Edinburgh.
+I am currently a Ph.D. candidate with [Kenneth J. Sytsma](https://archive.botany.wisc.edu/ksytsma/sytsmalab/SytsmaLab/Welcome.html) at the Department of Botany, University of Wisconsin-Madison. 
 &nbsp;
 
 &nbsp;
