@@ -5,7 +5,7 @@ order: 4
 ---
 ![system](images/large.jpeg)
 
-To answer foundational and contemporary questions at the intersection of ecology and evolution, my current research uses figs (Ficus L., Moraceae) as model plants in high-throughput and rigorous experiments in the lab, greenhouse, and natural Andean-Amazonian systems.
+To answer foundational and contemporary questions at the intersection of evolution and ecology, my current research uses figs (*Ficus* L., Moraceae) as a model system in high-throughput and rigorous experiments in the lab, greenhouse, and natural Andean-Amazonian systems.
 
 ### High-throughput phylogenomic backbone for Neotropical figs
 Establishing a robust evolutionary framework is essential for understanding the diversification, systematics, and ecological roles of flowering plants. I develop a high-throughput phylogenomic backbone for Neotropical Ficus, integrating genomic data with dense taxonomic sampling to resolve deep and shallow evolutionary relationships across the clade. By combining targeted sequencing approaches with rigorous phylogenomic inference, my work clarifies long-standing taxonomic ambiguities, provides a stable framework for species delimitation and nomenclature, and enables downstream studies of diversification, biogeography, and trait evolution in one of the most ecologically important plant lineages of the Neotropics.
