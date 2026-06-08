@@ -3,7 +3,7 @@ title: "Systems"
 layout: page
 order: 4
 ---
-![system](images/large.jpeg)
+![system](images/ficus_longifolia.jpeg)
 
 To answer foundational and contemporary questions at the intersection of evolution and ecology, my current research uses figs (*Ficus* L., Moraceae) as a model system in high-throughput and rigorous experiments in the lab, greenhouse, and natural Andean-Amazonian systems.
 
