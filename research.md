@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 
-![system](images/ficus_paraensis.jpg)
+![system](images/ficus_paraensis.jpeg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Morphological variation in <i> Ficus paraesis</i></p></div>
 
 ### High-throughput phylogenomic backbone for Neotropical figs
