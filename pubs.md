@@ -43,6 +43,3 @@ Pederneiras, L., Monge, C., **Mitidieri-Rivera, N.**, et al. (2019). Nomenclatur
 Pederneiras, L.C., Gardner, E.M., Plata-Castro, A., Hahn M., **Mitidieri-Rivera, N.**, et al. Phylogenomics Resolves Taxonomy and Reveals Hidden Diversity in Neotropical *Ficus* sect. *Pharmacosycea* (Moraceae). In review at *American Journal of Botany*
 
 Damián-Parizaca, A., Peréz-Escobar, O., Karremans, A.P., Antonelli, A., Janovec J.P., **Mitidieri-Rivera, N.**, et al.. Disetangling the Vine: Phylogenomics and Historical Biogeography of *Vanilla* (Orchidaceae). bioRxiv 2026.04.07.716943; [doi.org/10.64898/2026.04.07.716943](https://doi.org/10.64898/2026.04.07.716943)
-
-<img width="468" height="135" alt="image" src="https://github.com/user-attachments/assets/bbd727b1-4b91-4ea4-b325-7461d67112b0" />
-
