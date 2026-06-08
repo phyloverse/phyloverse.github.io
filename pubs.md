@@ -6,9 +6,12 @@ order: 3
 
 My latest publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=JqIM1LMAAAAJ&hl=es). Please let me know if you would like a PDF of any articles.
 
-### Selected manuscripts
+### Published
 
-**Mitidieri-Rivera, N.**, Wajer, J., Pederneiras, L. (2025). (3127) Proposal to reject the name Ficus calyculata (Moraceae). *Taxon*, early view. [doi.org/10.1002/tax.70084](https://doi.org/10.1002/tax.70084)
+**Mitidieri-Rivera, N.**, Wajer, J., Pederneiras, L. (2026). (3133–3134) Proposals to reject the names *Ficus serrata* and *F*. *maculata* (Moraceae)
+. *Taxon*, 75(1): e70112. [doi.org/10.1002/tax.70112](https://doi.org/10.1002/tax.70112)
+
+**Mitidieri-Rivera, N.**, Wajer, J., Pederneiras, L. (2025). (3127) Proposal to reject the name *Ficus calyculata* (Moraceae). *Taxon*, 74(6): 1584–1585. [doi.org/10.1002/tax.70084](https://doi.org/10.1002/tax.70084)
 
 **Mitidieri-Rivera, N.**, Damián-Parizaca, A., Gardner, E., Plata-Castro, A., Zerega, N., Pederneiras, L. (2025). A nomenclator of *F*. sect. *Americanae* (Moraceae). Part I: South America. *Phytotaxa*, 711(3):215–262. [doi.org/10.11646/phytotaxa.711.3.1](https://doi.org/10.11646/phytotaxa.711.3.1)
 
