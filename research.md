@@ -5,7 +5,7 @@ order: 2
 ---
 
 ![system](images/ficus_paraensis.jpeg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey"><i>Ficus paraesis</i>. © N. Mitidieri-Rivera</p></div>
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey"><i>Ficus paraesis</i> (Miq.) Miq.; © N. Mitidieri-Rivera</p></div>
 
 ### Phylogenomic and diversification history of *Ficus* and allied genera in Moraceae
 Understanding why biodiversity is unevenly distributed across tropical regions requires integrating phylogenetic, temporal, and biogeographic perspectives at broad evolutionary scales. In a recent synthesis, I contributed to reconstructing a comprehensive phylogenomic and temporal framework for Moraceae, with a particular emphasis on Ficus, enabling explicit inference of diversification dynamics across major lineages of the family ([Mitidieri et al. 2025. *Annals of Botany*](https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf101/8133158)). This work integrates genome-scale data with broad taxonomic sampling to resolve deep relationships within Moraceae and to evaluate how speciation rates, lineage accumulation, and historical biogeographic processes have shaped present-day diversity patterns.
