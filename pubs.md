@@ -35,9 +35,6 @@ Pederneiras, L., Monge, C., **Mitidieri-Rivera, N.**, et al. (2019). Nomenclatur
 
 ### Submitted and Pre-prints
 
-**Mitidieri-Rivera, N.**, Wajer, J., Pederneiras, L. (2026). (3133–3134) Proposals to reject the names *Ficus serrata* and *F*. *maculata* (Moraceae)
-. *Taxon*, 75(1): e70112. [doi.org/10.1002/tax.70112](https://doi.org/10.1002/tax.70112)
-
 **Mitidieri-Rivera, N.**, Pederneiras, L., Gardner, E., Damián-Parizaca, A., Sytsma, K. A high-throughput phylogenomic framework for Neotropical fig stranglers (*Ficus* sect. *Americanae*, Moraceae). In preparation for *Taxon*
 
 Pederneiras, L.C., Gardner, E.M., Plata-Castro, A., Hahn M., **Mitidieri-Rivera, N.**, et al. Phylogenomics Resolves Taxonomy and Reveals Hidden Diversity in Neotropical *Ficus* sect. *Pharmacosycea* (Moraceae). In review at *American Journal of Botany*
