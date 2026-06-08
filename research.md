@@ -4,8 +4,8 @@ title: Research
 order: 2
 ---
 
-![system](images/dw-system-wide-bw.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Experimental range expansion of the common duckweed,<i> Lemna minor</i></p></div>
+![system](images/ficus_paraensis.jpg)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Morphological variation in <i> Ficus paraesis</i></p></div>
 
 ### High-throughput phylogenomic backbone for Neotropical figs
 Establishing a robust evolutionary framework is essential for understanding the diversification, systematics, and ecological roles of flowering plants. I develop a high-throughput phylogenomic backbone for Neotropical Ficus, integrating genomic data with dense taxonomic sampling to resolve deep and shallow evolutionary relationships across the clade. By combining targeted sequencing approaches with rigorous phylogenomic inference, my work clarifies long-standing taxonomic ambiguities, provides a stable framework for species delimitation and nomenclature, and enables downstream studies of diversification, biogeography, and trait evolution in one of the most ecologically important plant lineages of the Neotropics.
