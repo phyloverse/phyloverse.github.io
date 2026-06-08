@@ -32,3 +32,17 @@ Pederneiras, L., da Costa, A., Medeiros, H., **Mitidieri-Rivera, N.**, et al. (2
 **Mitidieri-Rivera, N.**, Pederneiras, L.C., Parizaca, A.D., & Castillo, J.A. (2020). A new species and a new record of *Ficus* sect. *Pharmacosycea* (Moraceae) from Peru. *Systematic Botany* 45(1): 91–95. [doi.org/10.1600/036364420X15801369352342](https://doi.org/10.1600/036364420X15801369352342)
 
 Pederneiras, L., Monge, C., **Mitidieri-Rivera, N.**, et al. (2019). Nomenclatural revision of *Ficus* sect. *Americanae* (Moraceae): Typification of *Ficus crocata* and allied species. *Phytotaxa*, 414(5): 262–268. [doi.org/10.11646/phytotaxa.474.2.4](https://doi.org/10.11646/phytotaxa.474.2.4)
+
+### Submitted and Pre-prints
+
+**Mitidieri-Rivera, N.**, Wajer, J., Pederneiras, L. (2026). (3133–3134) Proposals to reject the names *Ficus serrata* and *F*. *maculata* (Moraceae)
+. *Taxon*, 75(1): e70112. [doi.org/10.1002/tax.70112](https://doi.org/10.1002/tax.70112)
+
+**Mitidieri-Rivera, N.**, Pederneiras, L., Gardner, E., Damián-Parizaca, A., Sytsma, K. A high-throughput phylogenomic framework for Neotropical fig stranglers (*Ficus* sect. *Americanae*, Moraceae). In preparation for *Taxon*
+
+Pederneiras, L.C., Gardner, E.M., Plata-Castro, A., Hahn M., **Mitidieri-Rivera, N.**, et al. Phylogenomics Resolves Taxonomy and Reveals Hidden Diversity in Neotropical *Ficus* sect. *Pharmacosycea* (Moraceae). In review at *American Journal of Botany*
+
+Damián-Parizaca, A., Peréz-Escobar, O., Karremans, A.P., Antonelli, A., Janovec J.P., **Mitidieri-Rivera, N.**, et al.. Disetangling the Vine: Phylogenomics and Historical Biogeography of *Vanilla* (Orchidaceae). bioRxiv 2026.04.07.716943; [doi.org/10.64898/2026.04.07.716943](https://doi.org/10.64898/2026.04.07.716943)
+
+<img width="468" height="135" alt="image" src="https://github.com/user-attachments/assets/bbd727b1-4b91-4ea4-b325-7461d67112b0" />
+
