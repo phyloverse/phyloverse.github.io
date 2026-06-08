@@ -1,2 +1,2 @@
-# phyloverse3.github.io
+# phyloverse.github.io
 repo for academic website!
