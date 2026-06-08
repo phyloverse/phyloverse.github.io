@@ -12,6 +12,6 @@ I have mentored undergraduate students in herbarium-based research, supporting e
 
 My public outreach includes organizing and presenting webinars and lectures such as [e.g. *Vanilla* Perú](https://www.youtube.com/watch?v=L9SlFbp1QNs) (taxonomy, ecology, and conservation of *Vanilla* in Peru), [Mujeres Botánicas](https://www.youtube.com/watch?v=0ft7dgP33Ds&list=PLVgvlQRAmCp1CaPK0MgLLaHC0r74yiFYW) (highlighting women’s contributions to botany), the [Simposio de Orquídeas y Biodiversidad en Perú](https://www.youtube.com/watch?v=8cgUDDmgF7A&list=PLVgvlQRAmCp0FQJLgmr9pYErwLAVGk1XA&pp=0gcJCbAEOCosWNin) (orchid systematics and conservation), [Un abrazo que mata o da vida? El caso del género *Ficus*]() (ecological interactions and evolutionary strategies in *Ficus*), and [Botánica en tiempos del COVID](https://www.youtube.com/watch?v=98aiKe5TZSI&list=PLVgvlQRAmCp1Bw36RzBdbaXLUF8boZ1MS) (adapting botanical research during the pandemic).
 
-![outreach](images/pic29.jpg)
+![outreach](images/REACH.jpg)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Members of REACH at <i> UW-Madison</i></p></div>
 
