@@ -6,7 +6,7 @@ feature_text: |
 ---
 ![herbarium](images/NYBG.jpg)
 
-**[EN]** Postdoctoral scientist in **evolutionary biology specializing in phylogenomics, bioinformatics, and Neotropical plant diversity**. My research integrates computational and field-based approaches to uncover how plant diversity evolves and how we can better conserve it. I have a strong publication record in systematics and floristics of Neotropical groups, with expertise in integrative plant taxonomy, herbarium-based research, large-dataset management, reproducible bioinformatic pipelines, and phylogenomic and statistical methods. 
+**[EN]** Postdoctoral scholar in **evolutionary biology specializing in phylogenomics, bioinformatics, and Neotropical plant diversity**. My research integrates computational and field-based approaches to uncover how plant diversity evolves and how we can better conserve it. I have a strong publication record in systematics and floristics of Neotropical groups, with expertise in integrative plant taxonomy, herbarium-based research, large-dataset management, reproducible bioinformatic pipelines, and phylogenomic and statistical methods. 
 
 Ph.D. from UW–Madison under [Kenneth J. Sytsma](https://archive.botany.wisc.edu/ksytsma/sytsmalab/SytsmaLab/Welcome.html). Also served as Graduate Teaching Assistant in plant systematics, general botany, evolution, and introductory biology. Prior to my doctorate, I gained research experience in tropical forest ecology, carbon stock assessment, and peatland biogeochemistry with CIFOR, FAO, and IIAP in the Peruvian Amazon.
 
