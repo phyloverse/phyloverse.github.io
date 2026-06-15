@@ -5,7 +5,6 @@ feature_text: |
   ## Nicole Mitidieri-Rivera
 ---
 ![herbarium](images/NYBG.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">It's not "publish or perish" anymore; it's "share and thrive".</p></div>
 
 **[EN]** Postdoctoral scholar in **evolutionary biology specializing in phylogenomics, bioinformatics, and Neotropical plant diversity**. My research integrates computational and field-based approaches to uncover how plant diversity evolves and how we can better conserve it. I have a strong publication record in systematics and floristics of Neotropical groups, with expertise in integrative plant taxonomy, herbarium-based research, large-dataset management, reproducible bioinformatic pipelines, and phylogenomic and statistical methods. 
 
