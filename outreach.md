@@ -4,7 +4,8 @@ layout: page
 order: 5
 ---
 
-![system](images/Opuntia.jpg)
+![outreach](images/REACH.jpg)
+<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Members of REACH at <i> UW-Madison</i></p></div>
 
 My current and past outreach and service experiences have been deeply enriching to my own journey as a female scientist because they connect my research expertise with broader academic, institutional, and public communities. Through service, I contribute to maintaining rigorous scientific standards, supporting equitable and inclusive academic environments, and mentoring the **next generation of botanists** and **citizen scientists**, while also gaining perspectives that strengthen my own scholarship and teaching. Engaging with diverse audiences, from international scholars and students to professional societies and the general public, has reinforced my commitment to collaborative science, ethical research practices, and the societal relevance of **plant systematics** and **biodiversity research**.
 
@@ -13,7 +14,4 @@ In my past role as a Ph.D. candidate and current role as a Postdoctoral Fellow, 
 I have mentored undergraduate students in herbarium-based research, supporting early-career development in plant biology. In addition, I am a [certified Data Carpentries Instructor](https://carpentries.org/community/instructors/) (2023–present), teaching R- and Python-based data management and programming skills to life science researchers to promote open, reproducible, and inclusive computational practices. 
 
 My public outreach includes organizing and presenting webinars and lectures such as [e.g. *Vanilla* Perú](https://www.youtube.com/watch?v=L9SlFbp1QNs) (taxonomy, ecology, and conservation of *Vanilla* in Peru), [Mujeres Botánicas](https://www.youtube.com/watch?v=0ft7dgP33Ds&list=PLVgvlQRAmCp1CaPK0MgLLaHC0r74yiFYW) (highlighting women’s contributions to botany), the [Simposio de Orquídeas y Biodiversidad en Perú](https://www.youtube.com/watch?v=8cgUDDmgF7A&list=PLVgvlQRAmCp0FQJLgmr9pYErwLAVGk1XA&pp=0gcJCbAEOCosWNin) (orchid systematics and conservation), [Un abrazo que mata o da vida? El caso del género *Ficus*]() (ecological interactions and evolutionary strategies in *Ficus*), and [Botánica en tiempos del COVID](https://www.youtube.com/watch?v=98aiKe5TZSI&list=PLVgvlQRAmCp1Bw36RzBdbaXLUF8boZ1MS) (adapting botanical research during the pandemic).
-
-![outreach](images/REACH.jpg)
-<div style="text-align: right"><p style="font-size:10pt;color:DimGrey">Members of REACH at <i> UW-Madison</i></p></div>
 
