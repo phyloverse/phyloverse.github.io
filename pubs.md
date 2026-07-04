@@ -4,7 +4,7 @@ title: Publications
 order: 3
 ---
 
-![pubs](images/Opuntia.jpg)
+![pubs](images/longitudinal.JPG)
 <div style="text-align: right"><p style="font-size:10pt;color:DimGrey">It's not "publish or perish" anymore; it's "share and thrive".</p></div>
 
 My latest publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=JqIM1LMAAAAJ&hl=es). Please let me know if you would like a PDF of any articles.
